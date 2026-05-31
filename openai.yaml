@@ -1,0 +1,6 @@
+interface:
+  display_name: "MY dream skills"
+  short_description: "Upgraded CSSCI/SSCI/AMI academic writing"
+  default_prompt: "Use $my-dream-skills to draft or revise a CSSCI, SSCI, or AMI manuscript with DOI-based recent literature and GB/T 7714-2025, MLA, or APA citations."
+policy:
+  allow_implicit_invocation: true
