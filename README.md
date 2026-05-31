@@ -1,1 +1,1 @@
-只是为了整合自己使用过好用的skills ，并做一个分享
+This is just a compilation of the academic skills I've found useful, put together for sharing. I've also included some requirements regarding formatting, style, and referencing for academic writing. Hope this helps—good luck!!!!
